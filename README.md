@@ -57,7 +57,7 @@ The HTML code creates the basic structure of the clock. The `<h2>` tag creates t
 
 The CSS file contains the following code:
 
-```
+```css
 body {
     margin: 0;
     font-family: sans-serif;
@@ -122,7 +122,7 @@ body {
 ### JS
 
 The JS file contains the following code:
-```
+```js
 const hour = document.getElementById("hour");
 const minute = document.getElementById("minutes");
 const second = document.getElementById("seconds");

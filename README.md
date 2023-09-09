@@ -118,7 +118,8 @@ body {
     font-size: 20px;
     background: green;
   }
-```### JS
+```
+### JS
 
 The JS file contains the following code:
 ```
